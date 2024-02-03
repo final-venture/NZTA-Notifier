@@ -5,4 +5,4 @@ Fill out the config and run the executable...
 
 Date format is DD/MM/YYYY.
 
-[Releases](https://www.example.com/releases](https://github.com/final-venture/NZTA-Notifier/releases)https://github.com/final-venture/NZTA-Notifier/releases)
+[Releases](https://github.com/final-venture/NZTA-Notifier/releases)
