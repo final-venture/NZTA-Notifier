@@ -5,5 +5,5 @@ Simply fill out the config and run the executable...
 
 Date format is DD/MM/YYYY.
 
-# Downloads
+# Download
 [Releases](https://github.com/final-venture/NZTA-Notifier/releases)
